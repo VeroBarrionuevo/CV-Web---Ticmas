@@ -124,10 +124,12 @@ html{
     color: #940253;
     text-transform: uppercase;
 }
+
+
 /* SECCION SOBRE MI */
 .sobremi{
     background-color: #e6e6e6;
-    padding: 140px 0 100px 0;
+    padding: 110px 0 60px 0;
     text-align: center;
 }
 .sobremi .contenido-seccion{
@@ -172,9 +174,11 @@ html{
     font-weight: bold;
     margin: 8px 0;
 }
+
+
 /* SECCION HABILIDADES */
 .habilidades{
-    padding: 80px 0 100px 0;
+    padding: 40px 0 60px 0;
     text-align: center;
     background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)),
     url("img/habilidades.jpg");
@@ -218,10 +222,12 @@ html{
     height: 30px;
     margin-right: 2px;
 }
+
+
 /* SECCION RESUMEN */
 .resumen{
     background-color: #e6e6e6;
-    padding: 140px 0 100px 0;
+    padding: 40px 0 60px 0;
     text-align: center;
 }
 .resumen .contenido-seccion{
@@ -283,7 +289,7 @@ html{
 /* SECCION CONTACTO */
 .contacto{
     background-color: #202020;
-    padding: 60px 0 50px 0;
+    padding: 40px 0 40px 0;
     color: #e6e6e6;
     text-align: center;
 }
@@ -308,15 +314,6 @@ html{
     text-transform: uppercase;
     font-size: 40px;
 }
-
-footer{
-    color: #858C94;
-    background-color: #202020;
-    padding: 10px 0 10px 0;
-    text-align: center;
-    font-size: 0.9rem;
-  }
-
 
 /* Formulario contacto*/
 
@@ -411,7 +408,14 @@ footer{
     margin-block-end: 5em;
   }
   
- 
+ /* FOOTER */
+  footer{
+    color: #858C94;
+    background-color: #202020;
+    padding: 10px 0 10px 0;
+    text-align: center;
+    font-size: 0.9rem;
+  }
 
 
 /* SECCION RESPONSIVE */
